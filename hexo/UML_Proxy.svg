@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="261px" preserveAspectRatio="none" style="width:226px;height:261px;" version="1.1" viewBox="0 0 226 261" width="226px" zoomAndPan="magnify"><defs><filter height="300%" id="f1pf6ivnqjjquu" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--class Subject--><rect fill="#FEFECE" filter="url(#f1pf6ivnqjjquu)" height="60.9551" id="Subject" style="stroke: #A80036; stroke-width: 1.5;" width="75" x="67" y="8"/><ellipse cx="82.45" cy="24" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M78.3777,19.7651 L78.3777,17.6069 L85.7571,17.6069 L85.7571,19.7651 L83.2918,19.7651 L83.2918,27.8418 L85.7571,27.8418 L85.7571,30 L78.3777,30 L78.3777,27.8418 L80.8431,27.8418 L80.8431,19.7651 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="42" x="96.55" y="28.5352">Subject</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="68" x2="141" y1="40" y2="40"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="68" x2="141" y1="48" y2="48"/><ellipse cx="78" cy="59.9775" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="49" x="87" y="62.6348">request()</text><!--class RealSubject--><rect fill="#FEFECE" filter="url(#f1pf6ivnqjjquu)" height="60.9551" id="RealSubject" style="stroke: #A80036; stroke-width: 1.5;" width="99" x="116" y="190"/><ellipse cx="131" cy="206" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M133.9731,211.6431 Q133.3921,211.9419 132.7529,212.0913 Q132.1138,212.2407 131.4082,212.2407 Q128.9014,212.2407 127.5815,210.5889 Q126.2617,208.937 126.2617,205.8159 Q126.2617,202.6865 127.5815,201.0347 Q128.9014,199.3828 131.4082,199.3828 Q132.1138,199.3828 132.7612,199.5322 Q133.4087,199.6816 133.9731,199.9805 L133.9731,202.7031 Q133.3423,202.1221 132.7488,201.8523 Q132.1553,201.5825 131.5244,201.5825 Q130.1797,201.5825 129.4949,202.6492 Q128.8101,203.7158 128.8101,205.8159 Q128.8101,207.9077 129.4949,208.9744 Q130.1797,210.041 131.5244,210.041 Q132.1553,210.041 132.7488,209.7712 Q133.3423,209.5015 133.9731,208.9204 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="67" x="145" y="210.5352">RealSubject</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="117" x2="214" y1="222" y2="222"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="117" x2="214" y1="230" y2="230"/><ellipse cx="127" cy="241.9775" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="49" x="136" y="244.6348">request()</text><!--class Proxy--><rect fill="#FEFECE" filter="url(#f1pf6ivnqjjquu)" height="60.9551" id="Proxy" style="stroke: #A80036; stroke-width: 1.5;" width="75" x="6" y="190"/><ellipse cx="25.95" cy="206" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M28.9231,211.6431 Q28.3421,211.9419 27.7029,212.0913 Q27.0638,212.2407 26.3582,212.2407 Q23.8514,212.2407 22.5315,210.5889 Q21.2117,208.937 21.2117,205.8159 Q21.2117,202.6865 22.5315,201.0347 Q23.8514,199.3828 26.3582,199.3828 Q27.0638,199.3828 27.7112,199.5322 Q28.3587,199.6816 28.9231,199.9805 L28.9231,202.7031 Q28.2923,202.1221 27.6988,201.8523 Q27.1053,201.5825 26.4744,201.5825 Q25.1297,201.5825 24.4449,202.6492 Q23.7601,203.7158 23.7601,205.8159 Q23.7601,207.9077 24.4449,208.9744 Q25.1297,210.041 26.4744,210.041 Q27.1053,210.041 27.6988,209.7712 Q28.2923,209.5015 28.9231,208.9204 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="32" x="41.05" y="210.5352">Proxy</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="80" y1="222" y2="222"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="80" y1="230" y2="230"/><ellipse cx="17" cy="241.9775" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="49" x="26" y="244.6348">request()</text><!--link Subject to RealSubject--><path d="M121.3229,88.6928 C132.1773,121.0783 145.9466,162.1603 155.2034,189.779 " fill="none" id="Subject-RealSubject" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="114.5666,90.5616,114.8478,69.3738,127.8408,86.1125,114.5666,90.5616" style="stroke: #A80036; stroke-width: 1.0;"/><!--link Subject to Proxy--><path d="M87.6771,88.6928 C76.8227,121.0783 63.0534,162.1603 53.7966,189.779 " fill="none" id="Subject-Proxy" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="81.1592,86.1125,94.1522,69.3738,94.4334,90.5616,81.1592,86.1125" style="stroke: #A80036; stroke-width: 1.0;"/><!--link Proxy to RealSubject--><path d="M81.1484,220.5 C90.969,220.5 100.7896,220.5 110.6102,220.5 " fill="none" id="Proxy-RealSubject" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="115.7458,220.5,106.7458,216.5,110.7458,220.5,106.7458,224.5,115.7458,220.5" style="stroke: #A80036; stroke-width: 1.0;"/><!--
+@startuml UML_Proxy
+interface Subject{
+  +request()
+}
+
+class RealSubject{
+  +request()
+}
+class Proxy{
+  +request()
+}
+
+
+RealSubject -up..|>Subject
+Proxy -up..|>Subject 
+Proxy -right-> RealSubject
+
+
+@enduml
+
+PlantUML version 1.2019.06(Sat May 25 01:10:25 CST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_91-b14
+Operating System: Mac OS X
+OS Version: 10.13.6
+Default Encoding: UTF-8
+Language: zh
+Country: CN
+--></g></svg>
